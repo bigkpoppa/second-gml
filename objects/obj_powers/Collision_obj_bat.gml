@@ -8,3 +8,5 @@ if(image_index == 0){
 		speed = spd;
 	}
 }
+
+instance_destroy();
