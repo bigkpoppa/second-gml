@@ -2,12 +2,15 @@
   "resources": [
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},"order":0,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":1,},
+    {"id":{"name":"spr_powers","path":"sprites/spr_powers/spr_powers.yy",},"order":3,},
     {"id":{"name":"obj_brick","path":"objects/obj_brick/obj_brick.yy",},"order":0,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":1,},
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},"order":0,},
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},"order":2,},
+    {"id":{"name":"obj_powers","path":"objects/obj_powers/obj_powers.yy",},"order":5,},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"order":4,},
     {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},"order":3,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":15,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [
